@@ -1,0 +1,8 @@
+{
+  "name": "slack-distraction",
+  "version": "0.0.1",
+  "description": "App to collect and distribute slack distraction metrics",
+  "main": "index.js",
+  "repository": "https://github.com/kmwhelan93/slack-distraction.git",
+  "license": "MIT"
+}
